@@ -1,2 +1,2 @@
 # faculdade_main
-coisas da facul ae
+Originalmente criado para manter o contéudo da faculdade em um repositório só. Péssima ideia.
